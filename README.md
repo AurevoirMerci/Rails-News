@@ -1,24 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Project : Blog with comment of comment  
+The objective is to link an user, article, comments and comment of comment.
 
-Things you may want to cover:
+Please follow the steps: 
+1. Bundle install 
+2. rails db:migrate
+3. rails console to test :) (ex: tp SecondComment.all or tp Comment.all)
 
-* Ruby version
+Take a look in : 
+- db/migrate for the migrations
+- app/model for the models 
 
-* System dependencies
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
